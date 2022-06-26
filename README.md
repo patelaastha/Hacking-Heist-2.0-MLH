@@ -48,7 +48,7 @@ This platform is built with an aim to promote local and regional food by creatin
 👉Click Here </a> To Watch Projects demo Video
 ## <a href="https://drive.google.com/file/d/13T6MhoTDsDyJxAtl290QSi5w6QYvuoXz/view?usp=sharing"> 
 
-👉Click Here for </a>🔗Project Demo 
+👉Click Here for </a> 🔗Project Demo 
 ## <a href="https://vyanjanam.netlify.app/">
   
 ## 💻Technology Used :
