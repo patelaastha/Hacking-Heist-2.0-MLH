@@ -6,7 +6,7 @@ This platform is built with an aim to promote local and regional food by creatin
 
 <h3 align="left">🧾 Did you ever faced this?:</h3>
 
-**If you are a Maharashtrian living in Chennai, and miss eating Maharashtra’s famous Kashi bai chi PuranPoli or delicious Sawaji thali, you are in for good news. Thanks to Vyanjanam. you can now order this delicious sweetmeat from the regional restaurants or visit a Sawaji Bhojnalay in that place just by surfing a li’ll.
+**If you are a Maharashtrian living in Chennai, and miss eating Maharashtra’s famous **KashiBai chi PuranPoli** or delicious **Sawaji thali**, you are in for good news. Thanks to Vyanjanam. you can now order this delicious sweetmeat from the regional restaurants or visit a Sawaji Bhojnalay in that place just by surfing a li’ll.
 Many times, we aren’t much acquainted with the existing food streets, motels, or regional restaurants of that places. To get you familiar and promote vocal for local, here’s a platform connecting all the regional and local restaurants. Also, you can order some of the most unique food products from across the country to your doorstep. Some of the stuff that you can order are Puneri bakarwadis, Karnataka’s favorite Mysore Pak, Lonavla chikki, Amritsari aam papad and more. With a selection of snacks, tea and coffee, bakery items, papads, pickles and spices, you can get an access to regional Indian foods sitting at home.**
 
 
