@@ -1,15 +1,15 @@
-# Vyanjanam - The ultimate Indian paak
+#  🍽Vyanjanam - The ultimate Indian paak 🍱
 <h3 align="left">🧾About Project:</h3>
 
-- 😇&nbsp;Being a technology-enthusiast, I love Exploring new technologies and leveraging them to solve real life-problems.
-- 👩‍🎓 Pursuing B.Tech Degree in Computer Science.
+- 😇&nbsp;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta, omnis..
+- 🥪 **Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta, omnis.**
 
-- 📚 I’m currently learning **Backend Technologies**
+- 🍴**Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta, omnis.**
 
-- 👯 I’m looking to collaborate on **open source project**
+- 🥗 **Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta, omnis.**
 
-- ☕ &nbsp;I believe, a perfect cup of coffee can be the ultimate solution for any stress.
+- ☕ **Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta, omnis.**
 
-- ⚡ Fun fact **Besides programming, I enjoy travelling & listening music.**
+- ⚡ **Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta, omnis.**
 
 
