@@ -24,18 +24,6 @@ Many times, we aren’t much acquainted with the existing food streets, motels, 
 - **4. If you are a Delhiite and visiting Maharashtra, to get acquainted with existing food streets, motels, famous as well as regional restaurants, food stalls, etc of that region by just scrolling down.**
 - **5. Bringing all the premium regional foods to these discerning customers.**
 
-<div align= "center"> 
-<img src = "HackingHeist/img/website 1.JPG" width = 400 height = 250 align = center> <br> <hr> <br>
-
-<img src = "HackingHeist/img/website 2.JPG" width = 400 height = 250> <p>Buyer Homepage</p> <hr>
-
-<img src = "HackingHeist/img/website 4.JPG" width = 400 height = 250> <p>Products </p> <hr>
-
-<img src = "HackingHeist/img/website 3.JPG" width = 400 height = 250> <p> Categorical and Location Wise Search</p> <br> 
-
-</div>
-
-
 ## <a href="https://www.youtube.com/watch?v=ahDOmW2qZjs&t=784s"> 👉Click Here </a> To Watch Demo Video
 ## <a href="https://www.youtube.com/watch?v=ahDOmW2qZjs&t=784s">🔗 Demo Link
 ## 💻Technology Used :
