@@ -24,8 +24,13 @@ Many times, we aren’t much acquainted with the existing food streets, motels, 
 - **4. If you are a Delhiite and visiting Maharashtra, to get acquainted with existing food streets, motels, famous as well as regional restaurants, food stalls, etc of that region by just scrolling down.**
 - **5. Bringing all the premium regional foods to these discerning customers.**
 
-<h3 align="left">Take a look:</h3>
+<h3 align="left"> Take a look:</h3>
 <h5>images</h5>
+
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 ## <a href="https://www.youtube.com/watch?v=ahDOmW2qZjs&t=784s"> 👉Click Here </a> To Watch Demo Video
 ## <a href="https://www.youtube.com/watch?v=ahDOmW2qZjs&t=784s">🔗 Demo Link
