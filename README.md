@@ -33,7 +33,7 @@ This platform is built with an aim to promote local and regional food by creatin
 
 ![website 1](https://user-images.githubusercontent.com/64533667/175818064-ae70dfd0-56e3-4b00-87df-97fa3bdc8030.JPG)
 
-![website 2](https://user-images.githubusercontent.com/64533667/175818249-a7e1dea6-559e-4c30-a06f-680ae058488e.JPG)
+<!-- ![website 2](https://user-images.githubusercontent.com/64533667/175818249-a7e1dea6-559e-4c30-a06f-680ae058488e.JPG) -->
 
 ![wesbite 3](https://user-images.githubusercontent.com/64533667/175818273-6edea3a7-3c80-404d-b50d-f170c54dba51.JPG)
 
@@ -45,11 +45,10 @@ This platform is built with an aim to promote local and regional food by creatin
 
 
 
-👉Click Here </a> To Watch Projects demo Video
-## <a href="https://drive.google.com/file/d/13T6MhoTDsDyJxAtl290QSi5w6QYvuoXz/view?usp=sharing"> 
+## <a href="https://drive.google.com/file/d/13T6MhoTDsDyJxAtl290QSi5w6QYvuoXz/view?usp=sharing"> 👉 Watch Demo Video </a> 
 
-👉Click Here for </a> 🔗Project Demo 
-## <a href="https://vyanjanam.netlify.app/">
+
+## <a href="https://vyanjanam.netlify.app/">👉Project Demo Link 
   
 ## 💻Technology Used :
 * HTML5
