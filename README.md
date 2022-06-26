@@ -27,10 +27,18 @@ Many times, we aren’t much acquainted with the existing food streets, motels, 
 <h3 align="left"> Take a look:</h3>
 <h5>images</h5>
 
+<img src="![website 1](https://user-images.githubusercontent.com/64533667/175811718-853268aa-1942-4f11-99c5-d3bbd5ff99c3.JPG)
+" width="350" alt="accessibility text">
+</p>
+
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="![website 5](https://user-images.githubusercontent.com/64533667/175811686-01cb0348-0c37-4796-b916-d9566c873b4e.JPG)
+" width="350" title="hover text">
   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
+<img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 
 ## <a href="https://www.youtube.com/watch?v=ahDOmW2qZjs&t=784s"> 👉Click Here </a> To Watch Demo Video
 ## <a href="https://www.youtube.com/watch?v=ahDOmW2qZjs&t=784s">🔗 Demo Link
