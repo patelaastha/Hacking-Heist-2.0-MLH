@@ -30,6 +30,7 @@ This platform is built with an aim to promote local and regional food by creatin
 - **5. Bringing all the premium regional foods to these discerning customers.**
 
 <h3 align="left">✔ Image:</h3>
+
 ![website 1](https://user-images.githubusercontent.com/64533667/175818064-ae70dfd0-56e3-4b00-87df-97fa3bdc8030.JPG)
 
 ![website 2](https://user-images.githubusercontent.com/64533667/175818249-a7e1dea6-559e-4c30-a06f-680ae058488e.JPG)
